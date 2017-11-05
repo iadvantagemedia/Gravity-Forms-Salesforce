@@ -2,7 +2,7 @@
 /*
 Plugin Name: Gravity Forms Salesforce Add-On
 Description: Integrates <a href="http://katz.si/gf">Gravity Forms</a> with Salesforce, allowing form submissions to be automatically sent to your Salesforce account.
-Version: 3.1.2
+Version: 3.2.1
 Requires at least: 3.3
 Author: Katz Web Services, Inc.
 Author URI: https://katz.co
